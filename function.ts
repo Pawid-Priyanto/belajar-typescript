@@ -22,3 +22,9 @@ function makeTable(num: number) {
 }
 
 makeTable(12);
+
+function log(msg: string | number): void{
+  console.log(msg);
+}
+
+log('hallo')
