@@ -29,3 +29,4 @@ console.log(calculator(8, 1, 'tambah'))
 }
 
 console.log(process.argv, 'iniproces argv', 'komen dongs')
+console.log('jiahahaha')
