@@ -28,4 +28,4 @@ console.log(calculator(8, 1, 'tambah'))
     console.log(errorMessage)
 }
 
-console.log(process.argv, 'iniproces argv')
+console.log(process.argv, 'iniproces argv', 'komen dongs')
